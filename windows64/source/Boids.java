@@ -369,5 +369,5 @@ public void keyPressed() {
   println("Exiting on keyPressed()");
   exit();
 }
-    public void settings() {  fullScreen(); }
+  public void settings() {  fullScreen(); }
 }
